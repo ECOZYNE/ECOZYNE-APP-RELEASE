@@ -1,3 +1,76 @@
-# ECOZYNE-APP-RELEASE
+# 🌱 ECOZYNE – Mobile Eco Enzyme App
 
-Aplikasi Ecozyne Aplikasi Mobile Eco Enzim adalah platform berbasis mobile yang dirancang untuk memudahkan masyarakat, khususnya masyarakat Batam, dalam memperoleh informasi dan edukasi seputar Eco Enzyme melalui artikel serta promosi kegiatan terkait. Selain menyediakan sarana edukasi, aplikasi ini dilengkapi dengan sistem penyetoran sampah, di mana komunitas dapat menyalurkan sampah ke bank sampah yang menerima dan mengolahnya. Setiap setoran akan dikonversi menjadi poin yang dapat ditukarkan dengan hadiah menarik. Keunggulan aplikasi ini adalah adanya fitur AI Pendeteksi Sampah, yang membantu pengguna mengenali jenis sampah yang sesuai untuk pembuatan Eco Enzyme maupun daur ulang, sehingga proses penyetoran menjadi lebih mudah, tepat, dan efisien
+**Ecozyne** adalah aplikasi mobile berbasis Android yang dirancang untuk memudahkan masyarakat—khususnya **masyarakat Batam**—dalam memperoleh **informasi, edukasi, dan partisipasi aktif** terkait **Eco Enzyme** dan pengelolaan sampah berkelanjutan.
+
+---
+
+## ✨ Fitur Utama
+
+### 📚 Edukasi & Artikel
+
+Menyediakan artikel informatif seputar:
+
+* Eco Enzyme
+* Pengelolaan sampah
+* Lingkungan & keberlanjutan
+
+### ♻️ Sistem Penyetoran Sampah
+
+* Setor sampah ke **bank sampah mitra**
+* Sampah akan **diolah & dimanfaatkan**
+* Setiap setoran dikonversi menjadi **poin**
+
+### 🎁 Penukaran Poin
+
+* Kumpulkan poin dari setiap setoran
+* Tukarkan dengan **hadiah menarik**
+
+### 🤖 AI Pendeteksi Sampah
+
+* Deteksi jenis sampah secara otomatis
+* Menentukan:
+
+  * Sampah yang cocok untuk **Eco Enzyme**
+  * Sampah yang bisa **didaur ulang**
+* Membantu proses setor jadi **lebih cepat, tepat, dan efisien**
+
+---
+
+## 📱 Informasi Aplikasi
+
+* **Nama Aplikasi:** Ecozyne
+* **Platform:** Android
+* **Ukuran APK:** ±240 MB
+* **Target Pengguna:** Masyarakat umum & komunitas lingkungan
+
+---
+
+## 🚀 Cara Install Aplikasi
+
+1. 📥 Download file **Ecozyne.apk** dari halaman **Release**
+2. 🔓 Aktifkan **Install from Unknown Sources**
+3. 📲 Buka file APK dan pilih **Install**
+4. ✅ Tunggu hingga proses selesai
+5. 🎉 Jalankan aplikasi Ecozyne
+
+> ⚠️ Pastikan tersedia ruang kosong minimal **500 MB**
+
+---
+
+## 🔐 Keamanan & Hak Cipta
+
+© 2025 **Ecozyne Team**. All Rights Reserved.
+
+* 🚫 Dilarang re-upload tanpa izin
+* 🚫 Dilarang modifikasi dan distribusi ulang
+* 🚫 Dilarang mengklaim sebagai karya pihak lain
+
+---
+
+## 🌍 Visi Ecozyne
+
+Mendorong partisipasi masyarakat dalam pengelolaan sampah yang berkelanjutan melalui **teknologi, edukasi, dan kolaborasi komunitas** demi lingkungan yang lebih bersih dan sehat.
+
+---
+
+✨ *Ecozyne — Dari Sampah Menjadi Manfaat*
