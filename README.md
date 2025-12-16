@@ -59,17 +59,103 @@ Menyediakan artikel informatif seputar:
 
 ## 🔐 Keamanan & Hak Cipta
 
+## 🔑 Permission & Akses yang Digunakan
+
+Ecozyne membutuhkan beberapa permission Android untuk memastikan seluruh fitur dapat berjalan dengan optimal. Berikut penjelasannya:
+
+### 📍 Lokasi (GPS)
+
+Digunakan untuk:
+
+* Menampilkan **bank sampah terdekat**
+* Mendukung fitur **peta & navigasi**
+
+Permission:
+
+* `ACCESS_FINE_LOCATION`
+* `ACCESS_COARSE_LOCATION`
+
+---
+
+### 📷 Kamera & Media
+
+Digunakan untuk:
+
+* **AI Pendeteksi Sampah** (scan & foto sampah)
+* Upload gambar dokumentasi setoran
+
+Permission:
+
+* `CAMERA`
+* `RECORD_AUDIO` *(dibutuhkan oleh modul kamera Android)*
+
+---
+
+### 🖼️ Akses Media & Penyimpanan
+
+Digunakan untuk:
+
+* Mengambil gambar dari galeri
+* Menyimpan file sementara (cache, PDF, dokumen)
+
+Permission:
+
+* `READ_MEDIA_IMAGES`
+* `READ_MEDIA_VIDEO`
+* `READ_EXTERNAL_STORAGE` *(Android lama)*
+* `WRITE_EXTERNAL_STORAGE` *(dibatasi hingga Android 10)*
+
+---
+
+### 🔔 Notifikasi
+
+Digunakan untuk:
+
+* Informasi setoran sampah
+* Update poin & hadiah
+* Pengumuman kegiatan & event
+
+Permission:
+
+* `POST_NOTIFICATIONS`
+* `VIBRATE`
+* `RECEIVE_BOOT_COMPLETED`
+
+---
+
+### 🌐 Internet & Jaringan
+
+Digunakan untuk:
+
+* Akses API & server Ecozyne
+* Sinkronisasi data
+* Push notification (Firebase)
+
+Permission:
+
+* `INTERNET`
+
+---
+
+### 📂 File & Dokumen
+
+Digunakan untuk:
+
+* Membuka PDF, DOCX, dan file edukasi
+* Integrasi dengan aplikasi eksternal (Google Docs, WPS, dll)
+
+---
+
+> 🔒 **Privasi Pengguna**
+> Ecozyne **tidak menyalahgunakan data pengguna**. Semua akses hanya digunakan untuk mendukung fitur aplikasi dan mengikuti kebijakan privasi yang berlaku.
+
+## 🔐 Keamanan & Hak Cipta
+
 © 2025 **Ecozyne Team**. All Rights Reserved.
 
 * 🚫 Dilarang re-upload tanpa izin
 * 🚫 Dilarang modifikasi dan distribusi ulang
 * 🚫 Dilarang mengklaim sebagai karya pihak lain
-
----
-
-## 🌍 Visi Ecozyne
-
-Mendorong partisipasi masyarakat dalam pengelolaan sampah yang berkelanjutan melalui **teknologi, edukasi, dan kolaborasi komunitas** demi lingkungan yang lebih bersih dan sehat.
 
 ---
 
