@@ -1,2 +1,3 @@
 # ECOZYNE-APP-RELEASE
-Ecozyne Platform
+
+Aplikasi Ecozyne Aplikasi Mobile Eco Enzim adalah platform berbasis mobile yang dirancang untuk memudahkan masyarakat, khususnya masyarakat Batam, dalam memperoleh informasi dan edukasi seputar Eco Enzyme melalui artikel serta promosi kegiatan terkait. Selain menyediakan sarana edukasi, aplikasi ini dilengkapi dengan sistem penyetoran sampah, di mana komunitas dapat menyalurkan sampah ke bank sampah yang menerima dan mengolahnya. Setiap setoran akan dikonversi menjadi poin yang dapat ditukarkan dengan hadiah menarik. Keunggulan aplikasi ini adalah adanya fitur AI Pendeteksi Sampah, yang membantu pengguna mengenali jenis sampah yang sesuai untuk pembuatan Eco Enzyme maupun daur ulang, sehingga proses penyetoran menjadi lebih mudah, tepat, dan efisien
