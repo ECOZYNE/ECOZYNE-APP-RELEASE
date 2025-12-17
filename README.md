@@ -41,12 +41,12 @@ Menyediakan artikel informatif seputar:
 * **Nama Aplikasi:** Ecozyne
 * **Platform:** Android
 * **Ukuran APK:**
-* app-armeabi-v7a-release.apk (±51 MB)
-Digunakan untuk perangkat Android 32-bit.
-Ukuran file lebih kecil karena library native dan komponen sistem yang disertakan menyesuaikan dengan arsitektur 32-bit.
 * app-arm64-v8a-release.apk (±57 MB)
 Digunakan untuk perangkat Android 64-bit (mayoritas perangkat Android modern).
 Ukuran sedikit lebih besar karena menyertakan library 64-bit yang mendukung performa dan kompatibilitas perangkat terbaru.
+* app-armeabi-v7a-release.apk (±51 MB)
+Digunakan untuk perangkat Android 32-bit.
+Ukuran file lebih kecil karena library native dan komponen sistem yang disertakan menyesuaikan dengan arsitektur 32-bit.
 * Minimum Android: Android 8.0 (Oreo)
 * **Target Pengguna:** Masyarakat umum & komunitas lingkungan
 
