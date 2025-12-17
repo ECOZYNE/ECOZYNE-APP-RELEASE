@@ -40,7 +40,9 @@ Menyediakan artikel informatif seputar:
 
 * **Nama Aplikasi:** Ecozyne
 * **Platform:** Android
-* **Ukuran APK:** ±240 MB
+* **Ukuran APK:** -app-armeabi-v7a-release.apk → ±51 MB
+                  -app-arm64-v8a-release.apk → ±57 MB
+* Minimum Android: Android 8.0 (Oreo)
 * **Target Pengguna:** Masyarakat umum & komunitas lingkungan
 
 ---
