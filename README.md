@@ -60,7 +60,7 @@ Ukuran file lebih kecil karena library native dan komponen sistem yang disertaka
 4. ✅ Tunggu hingga proses selesai
 5. 🎉 Jalankan aplikasi Ecozyne
 
-> ⚠️ Pastikan tersedia ruang kosong minimal **500 MB**
+> ⚠️ Pastikan tersedia ruang kosong minimal **200 MB**
 
 ---
 
